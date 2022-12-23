@@ -10,7 +10,7 @@
 
 ## About me
 
-- 👨‍💻 I'm a Software Development Engineer working for an IT Consultancy in Brazil
+- 👨‍💻 I'm a Software Engineer at @Telefonica
 - 🌱 I’m currently learning about OWASP Vulnerabilities
 <br />
 
@@ -35,23 +35,4 @@
 </p>
 
 
-<!--
-**mickaelcampos/mickaelcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-Olá, a partir daqui o conteúdo deste arquivo é escolhido aleatoriamente por um bot e alterado de forma totalmente automatizada.
-Quer saber como fiz? (link do medium)
-
--->
